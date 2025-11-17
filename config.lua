@@ -19,7 +19,7 @@ Config.DisableSprintWhileAiming = true
 Config.DisableCriticalHits = false 
 Config.WeaponDamage = {
     -- Melee
-    {Name = 'WEAPON_UNARMED', Damage = 1.0},
+    {Name = 'WEAPON_UNARMED', Damage = 1.5},
     {Name = 'WEAPON_MELEE_CLEAVER', Damage = 1.5},
     {Name = 'WEAPON_MELEE_HAMMER', Damage = 1.5},
     {Name = 'WEAPON_MELEE_HATCHET', Damage = 1.5},
