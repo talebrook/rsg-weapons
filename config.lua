@@ -34,14 +34,14 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_MELEE_MACHETE_HORROR', Damage = 1.5},
 
     -- Revolver
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 1.95},
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 3.0},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 2.0},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 3.8},
     {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 2.1},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 2.4},
-    {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.8},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 2.6},
+    {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.85},
     {Name = 'WEAPON_REVOLVER_NAVY', Damage = 1.65},
     {Name = 'WEAPON_REVOLVER_NAVY_CROSSOVER', Damage = 1.85},
-    {Name = 'WEAPON_REVOLVER_SCHOFIELD', Damage = 1.8},
+    {Name = 'WEAPON_REVOLVER_SCHOFIELD', Damage = 1.9},
 
     -- Pistols
     {Name = 'WEAPON_PISTOL_M1899', Damage = 1.5},
@@ -50,8 +50,8 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_PISTOL_VOLCANIC', Damage = 1.5},
 
     -- Snipers
-    {Name = 'WEAPON_SNIPERRIFLE_CARCANO', Damage = 1.0},
-    {Name = 'WEAPON_SNIPERRIFLE_ROLLINGBLOCK', Damage = 1.0},
+    {Name = 'WEAPON_SNIPERRIFLE_CARCANO', Damage = 1.25},
+    {Name = 'WEAPON_SNIPERRIFLE_ROLLINGBLOCK', Damage = 1.1},
 
     -- Rifle
     {Name = 'WEAPON_RIFLE_BOLTACTION', Damage = 1.65},
