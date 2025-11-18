@@ -34,18 +34,18 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_MELEE_MACHETE_HORROR', Damage = 1.5},
 
     -- Revolver
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 2.1},
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 2.3},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 1.8},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 2.0},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 1.9},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 2.5},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 2.0},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 2.1},
     {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.6},
     {Name = 'WEAPON_REVOLVER_NAVY', Damage = 1.6},
-    {Name = 'WEAPON_REVOLVER_NAVY_CROSSOVER', Damage = 1.7},
-    {Name = 'WEAPON_REVOLVER_SCHOFIELD', Damage = 1.6},
+    {Name = 'WEAPON_REVOLVER_NAVY_CROSSOVER', Damage = 1.8},
+    {Name = 'WEAPON_REVOLVER_SCHOFIELD', Damage = 1.7},
 
     -- Pistols
     {Name = 'WEAPON_PISTOL_M1899', Damage = 1.6},
-    {Name = 'WEAPON_PISTOL_MAUSER', Damage = 1.7},
+    {Name = 'WEAPON_PISTOL_MAUSER', Damage = 1.8},
     {Name = 'WEAPON_PISTOL_SEMIAUTO', Damage = 1.7},
     {Name = 'WEAPON_PISTOL_VOLCANIC', Damage = 1.6},
 
@@ -60,10 +60,10 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_RIFLE_VARMINT', Damage = 1.4},
 
     -- Repeater
-    {Name = 'WEAPON_REPEATER_CARBINE', Damage = 1.65},
-    {Name = 'WEAPON_REPEATER_EVANS', Damage = 1.6},
+    {Name = 'WEAPON_REPEATER_CARBINE', Damage = 1.7},
+    {Name = 'WEAPON_REPEATER_EVANS', Damage = 1.5},
     {Name = 'WEAPON_REPEATER_HENRY', Damage = 1.6},
-    {Name = 'WEAPON_REPEATER_WINCHESTER', Damage = 1.6},
+    {Name = 'WEAPON_REPEATER_WINCHESTER', Damage = 1.5},
 
     -- Thrown
     {Name = 'WEAPON_THROWN_DYNAMITE', Damage = 1.6},
@@ -81,8 +81,8 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_SHOTGUN_SEMIAUTO', Damage = 1.5},
 
     -- Bows
-    {Name = 'WEAPON_BOW', Damage = 1.5},
-    {Name = 'WEAPON_BOW_IMPROVED', Damage = 1.5},
+    {Name = 'WEAPON_BOW', Damage = 1.3},
+    {Name = 'WEAPON_BOW_IMPROVED', Damage = 1.6},
 }
 
 Config.ThrowableWeaponAmmoTypes = {
