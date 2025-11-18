@@ -35,7 +35,7 @@ Config.WeaponDamage = {
 
     -- Revolver
     {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 2.0},
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 3.8},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 3.2},
     {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 2.1},
     {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 2.6},
     {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.85},
