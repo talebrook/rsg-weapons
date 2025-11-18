@@ -19,7 +19,7 @@ Config.DisableSprintWhileAiming = true
 Config.DisableCriticalHits = false 
 Config.WeaponDamage = {
     -- Melee
-    {Name = 'WEAPON_UNARMED', Damage = 2},
+    {Name = 'WEAPON_UNARMED', Damage = 2.0},
     {Name = 'WEAPON_MELEE_CLEAVER', Damage = 1.5},
     {Name = 'WEAPON_MELEE_HAMMER', Damage = 1.5},
     {Name = 'WEAPON_MELEE_HATCHET', Damage = 1.5},
@@ -34,10 +34,10 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_MELEE_MACHETE_HORROR', Damage = 1.5},
 
     -- Revolver
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 2},
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 2.2},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 1.7},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 1.9},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 2.1},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 2.3},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 1.8},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 2.0},
     {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.6},
     {Name = 'WEAPON_REVOLVER_NAVY', Damage = 1.6},
     {Name = 'WEAPON_REVOLVER_NAVY_CROSSOVER', Damage = 1.7},
