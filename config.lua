@@ -19,7 +19,7 @@ Config.DisableSprintWhileAiming = true
 Config.DisableCriticalHits = false 
 Config.WeaponDamage = {
     -- Melee
-    {Name = 'WEAPON_UNARMED', Damage = 1.5},
+    {Name = 'WEAPON_UNARMED', Damage = 2},
     {Name = 'WEAPON_MELEE_CLEAVER', Damage = 1.5},
     {Name = 'WEAPON_MELEE_HAMMER', Damage = 1.5},
     {Name = 'WEAPON_MELEE_HATCHET', Damage = 1.5},
@@ -34,40 +34,40 @@ Config.WeaponDamage = {
     {Name = 'WEAPON_MELEE_MACHETE_HORROR', Damage = 1.5},
 
     -- Revolver
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_NAVY', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_NAVY_CROSSOVER', Damage = 1.5},
-    {Name = 'WEAPON_REVOLVER_SCHOFIELD', Damage = 1.5},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN', Damage = 2},
+    {Name = 'WEAPON_REVOLVER_CATTLEMAN_MEXICAN', Damage = 2.2},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION', Damage = 1.7},
+    {Name = 'WEAPON_REVOLVER_DOUBLEACTION_GAMBLER', Damage = 1.9},
+    {Name = 'WEAPON_REVOLVER_LEMAT', Damage = 1.6},
+    {Name = 'WEAPON_REVOLVER_NAVY', Damage = 1.6},
+    {Name = 'WEAPON_REVOLVER_NAVY_CROSSOVER', Damage = 1.7},
+    {Name = 'WEAPON_REVOLVER_SCHOFIELD', Damage = 1.6},
 
     -- Pistols
-    {Name = 'WEAPON_PISTOL_M1899', Damage = 1.5},
-    {Name = 'WEAPON_PISTOL_MAUSER', Damage = 1.5},
-    {Name = 'WEAPON_PISTOL_SEMIAUTO', Damage = 1.5},
-    {Name = 'WEAPON_PISTOL_VOLCANIC', Damage = 1.5},
+    {Name = 'WEAPON_PISTOL_M1899', Damage = 1.6},
+    {Name = 'WEAPON_PISTOL_MAUSER', Damage = 1.7},
+    {Name = 'WEAPON_PISTOL_SEMIAUTO', Damage = 1.7},
+    {Name = 'WEAPON_PISTOL_VOLCANIC', Damage = 1.6},
 
     -- Snipers
-    {Name = 'WEAPON_SNIPERRIFLE_CARCANO', Damage = 1.5},
-    {Name = 'WEAPON_SNIPERRIFLE_ROLLINGBLOCK', Damage = 1.5},
+    {Name = 'WEAPON_SNIPERRIFLE_CARCANO', Damage = 1.0},
+    {Name = 'WEAPON_SNIPERRIFLE_ROLLINGBLOCK', Damage = 1.0},
 
     -- Rifle
-    {Name = 'WEAPON_RIFLE_BOLTACTION', Damage = 1.5},
+    {Name = 'WEAPON_RIFLE_BOLTACTION', Damage = 1.6},
     {Name = 'WEAPON_RIFLE_ELEPHANT', Damage = 1.5},
-    {Name = 'WEAPON_RIFLE_SPRINGFIELD', Damage = 1.5},
-    {Name = 'WEAPON_RIFLE_VARMINT', Damage = 1.5},
+    {Name = 'WEAPON_RIFLE_SPRINGFIELD', Damage = 1.6},
+    {Name = 'WEAPON_RIFLE_VARMINT', Damage = 1.4},
 
     -- Repeater
-    {Name = 'WEAPON_REPEATER_CARBINE', Damage = 1.5},
-    {Name = 'WEAPON_REPEATER_EVANS', Damage = 1.5},
-    {Name = 'WEAPON_REPEATER_HENRY', Damage = 1.5},
-    {Name = 'WEAPON_REPEATER_WINCHESTER', Damage = 1.5},
+    {Name = 'WEAPON_REPEATER_CARBINE', Damage = 1.65},
+    {Name = 'WEAPON_REPEATER_EVANS', Damage = 1.6},
+    {Name = 'WEAPON_REPEATER_HENRY', Damage = 1.6},
+    {Name = 'WEAPON_REPEATER_WINCHESTER', Damage = 1.6},
 
     -- Thrown
-    {Name = 'WEAPON_THROWN_DYNAMITE', Damage = 1.5},
-    {Name = 'WEAPON_THROWN_POISONBOTTLE', Damage = 1.5},
+    {Name = 'WEAPON_THROWN_DYNAMITE', Damage = 1.6},
+    {Name = 'WEAPON_THROWN_POISONBOTTLE', Damage = 1.6},
     {Name = 'WEAPON_THROWN_THROWING_KNIVES', Damage = 1.5},
     {Name = 'WEAPON_THROWN_TOMAHAWK', Damage = 1.5},
     {Name = 'WEAPON_THROWN_TOMAHAWK_ANCIENT', Damage = 1.5},
